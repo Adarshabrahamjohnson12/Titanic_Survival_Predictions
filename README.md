@@ -4,6 +4,11 @@ This project uses the **Titanic dataset** to predict whether a passenger would s
 
 ---
 
+
+[![Visit My Website](https://example.com/image.png)](https://example.com)
+
+
+
 ## 📊 Models Used
 
 - ✅ Logistic Regression
