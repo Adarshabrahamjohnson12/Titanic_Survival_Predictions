@@ -4,7 +4,7 @@ This project uses the **Titanic dataset** to predict whether a passenger would s
 
 ---
 
-![My Logo](https://example.com/logo.png)
+![My Logo]([https://example.com/logo.png](https://github.com/Adarshabrahamjohnson12/Titanic_Survival_Predictions/blob/main/Screenshot%202025-06-20%20224025.png))
 
 
 
