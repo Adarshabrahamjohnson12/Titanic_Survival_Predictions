@@ -5,7 +5,7 @@ This project uses the **Titanic dataset** to predict whether a passenger would s
 ---
 
 
-[![Visit My Website](https://example.com/image.png)](https://example.com)
+[![.]([https://example.com/image.png](https://github.com/Adarshabrahamjohnson12/Titanic_Survival_Predictions/blob/main/Screenshot%202025-06-20%20224025.png))]([https://example.com](https://github.com/Adarshabrahamjohnson12/Titanic_Survival_Predictions/blob/main/Screenshot%202025-06-20%20224025.png))
 
 
 
